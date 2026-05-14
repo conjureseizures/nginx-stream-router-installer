@@ -1,6 +1,6 @@
 # NGINX Stream Router Installer
 
-Automated NGINX stream/SNI routing installer for fast TCP proxy deployment with configurable domains, ports, and upstream targets.
+This is a simple automated installer for NGINX stream (TCP/SNI) routing. It sets up everything required to quickly deploy a reverse proxy without manual configuration.
 
 ## Features:
 
